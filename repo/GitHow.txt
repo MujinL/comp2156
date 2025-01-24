@@ -1,0 +1,11 @@
+Working Directory
+-git add
+    Staging Area
+    -git commit
+        Localrepo
+        -git push
+            Remote repo
+            -git pull
+        Localrepo
+        -git checkout
+Working Directory
